@@ -21,4 +21,4 @@ E git-checkout - Switch branches or restore working tree files
 
 6. commit ætti að gera eftir hverja lausn því ef eithvað virkar ekki þá getur maður farið til baka sem það virkaði.
 
-
+7. Working directory er skrá í tölvu, staging area er skrá sem geymir upplýsingar sem á að fara í commit, REpository geymir commit upplýsingar.
