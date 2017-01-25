@@ -1,1 +1,2 @@
-#sigurğur
+#sigurï¿½ur
+print("hallÃ³ heimur")
