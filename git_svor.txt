@@ -19,6 +19,6 @@ E git-checkout - Switch branches or restore working tree files
 
 5. Git leyfir hópi af fólki að vinna saman að nota sömu skrána.
 
-
+6. commit ætti að gera eftir hverja lausn því ef eithvað virkar ekki þá getur maður farið til baka sem það virkaði.
 
 
