@@ -6,3 +6,8 @@ tala 2 = int(input("Sláðu inn seinni tölu"))
 summa = tala1 + tala2
 marg = tala1 * tala2
 print("Tölurnar lagðar saman:" , summa , "og margfaldaðar saman:" , marg)
+
+#Dæmi 2
+fornafn = input("Sláðu inn fornafn þitt ")
+eftirnafn = input("Sláðu inn eftir nafn þitt ")
+print("Halló" , fornafn , eftirnafn)
