@@ -12,3 +12,6 @@ B git log shows the commit logs.
 C git-status - Show the working tree status
 D git-diff - Show changes between commits, commit and working tree, etc
 E git-checkout - Switch branches or restore working tree files
+
+3.
+git diff sínir breytinguna milli tree og index
