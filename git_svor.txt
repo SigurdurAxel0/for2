@@ -1,15 +1,8 @@
-#Git spurningar og svör
+﻿#Git spurningar og svör
 1.
 A cd er til að breyta um skrá
 B cd~ fer beint í home directory og breytir um skrá
 C ls sýnur allt sem er í skráni sem maður er staddur í
 D pwd sýnir hvar þú ert staddur
 E mkdir býr til folder sem þú ert
-
-2.
-A git clone clones a repository into a newly created directory
-B git log shows the commit logs.
-C git-status - Show the working tree status
-D git-diff - Show changes between commits, commit and working tree, etc
-E git-checkout - Switch branches or restore working tree files
 
