@@ -16,3 +16,9 @@ E git-checkout - Switch branches or restore working tree files
 3. git diff sínir breytinguna milli tree og index
 
 4.Útgáfustyring er skjöl samþykkt af ábyrgðarmönnum og endurskoðun af uppfærslum af skjöum.
+
+5. Git leyfir hópi af fólki að vinna saman að nota sömu skrána.
+
+
+
+
