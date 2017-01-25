@@ -23,4 +23,6 @@ E git-checkout - Switch branches or restore working tree files
 
 7. Working directory er skrá í tölvu, staging area er skrá sem geymir upplýsingar sem á að fara í commit, REpository geymir commit upplýsingar.
 
-8. Það er léttara að færa branch í commit
+8. Það er léttara að færa branch í commit.
+
+9. Linus Torvalds.
